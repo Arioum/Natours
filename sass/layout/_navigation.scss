@@ -144,6 +144,6 @@
 
   &__checkbox:checked+&__button &__icon::after {
     top: 0;
-    transform: rotate(-135  deg);
+    transform: rotate(-135 deg);
   }
 }
